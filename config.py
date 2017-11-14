@@ -16,6 +16,6 @@
 # Please do not include this file if you plan to contribute to this repo to assure your storage account name and key are not inadvertantly shared
 #--------------------------------------------------------------------------
 
-STORAGE_ACCOUNT_NAME = ''
-STORAGE_ACCOUNT_KEY = ''
-IS_EMULATED = True
+STORAGE_ACCOUNT_NAME = 'sanayaksouthindia'
+STORAGE_ACCOUNT_KEY = '3ELe6MDtfqVP4GeLPgEzVS1Xd5OMs2jiUPhl8W9YGrmDgG0Cw3af+3RZenR8bWexD64j6xaajixrkifbWDvnRA=='
+IS_EMULATED = False
